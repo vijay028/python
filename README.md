@@ -1,5 +1,5 @@
 # python
-Python projects
+Python projects: 
 This repository has all my work done on Python. It varies from scritps to web apps.
 I am a learner and Python enthusiast experimenting and solving problems in Python/Flask/Django framework.
 
