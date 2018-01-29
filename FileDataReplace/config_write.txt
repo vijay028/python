@@ -1,0 +1,16 @@
+#
+#
+##testing
+#####
+[copy:arcot1]
+asd asd
+asd asd asd
+wer erwr ewrwefwee
+#
+#sdfsdf
+[copy:arcot2]
+xzy
+[copy:arcot3]
+one
+ two
+#testing

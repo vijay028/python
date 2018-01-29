@@ -1,0 +1,20 @@
+[copy:arcot1]
+one
+   two
+three
+#
+#sdfsdf
+[copy:arcot2]
+xzy
+asdasdadasdasdasd asd asd asd asd as dsa d
+[copy:arcot3]
+one 3q4 q34234 23423423 234 234
+ two fdg 4353 4esf we5w45
+#testing
+[copy:arcot4]
+oneaaaaaaaaaaafffffffffff
+ two123123123123
+#testing
+[copy:arcot5] 
+###
+########
